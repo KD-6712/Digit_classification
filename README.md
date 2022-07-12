@@ -1,2 +1,3 @@
 # Digit_classification_using-RNN
-Predicts digits between 0-9
+This project predicts the digit represented by the mnist image.
+It can predict numbers from 0-9.
